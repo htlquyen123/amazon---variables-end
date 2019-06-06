@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation  This is some basic info about the whole suite
+Documentation  This is some basic info about the whole suite practice robot
 # notice we're no longer referencing the Selenium2Library in our script!
 Resource  Resources/Common.robot  # necessary for Setup & Teardown
 Resource  Resources/Amazon.robot  # necessary for lower level keywords in test cases
